@@ -1,0 +1,3 @@
+[submodule "hello-next/hello-next/next-learn-demo"]
+	path = hello-next/hello-next/next-learn-demo
+	url = https://github.com/zeit/next-learn-demo.git

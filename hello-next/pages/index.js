@@ -1,6 +1,11 @@
+import Link from "next/link";
+
 const Index = () => (
   <div>
-    <p>Hello Next.js</p>
+    <Link href="/about" title="About Page">
+      <button>About Page</button>
+    </Link>
+    <p>Hell Next.js</p>
   </div>
 );
 
